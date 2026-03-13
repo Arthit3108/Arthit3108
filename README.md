@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi 👋 I'm Arthit Nopjaroonsri
 
-<!--
-**Arthit3108/Arthit3108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-year Computer Engineering student at KMUTT  
+🔐 Interested in DevSecOps, Offensive Security, and Cloud Infrastructure  
+🚀 Passionate about building secure and scalable systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **DevSecOps Security Scanning Platform**
+- 🌱 Learning more about **Cloud Security, CI/CD, and Kubernetes**
+- 🛠 Experienced in **Web Development & Security Testing**
+- 🎯 Goal: Become an **Offensive Security Engineer / DevSecOps Engineer**
+
+---
+
+## ⚙️ Tech Stack
+
+**Programming**
+- JavaScript / TypeScript
+- Python
+- SQL
+
+**Frontend**
+- React
+- TailwindCSS
+
+**Backend & DevOps**
+- Node.js
+- Docker
+- GitHub Actions
+- Linux
+
+**Cloud & Infrastructure**
+- Google Cloud Platform (GCP)
+- VM / Cloud Run
+- Networking / VPC
+
+**Security Tools**
+- Kali Linux
+- Burp Suite
+- Wireshark
+- Nmap
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 DevSecOps Security Scanner Platform
+A web platform that scans GitHub repositories for security vulnerabilities.
+
+Features:
+- Static Code Analysis
+- Container Vulnerability Scanning
+- Security Dashboard
+- CI/CD Integration
+
+Tech Stack:
+React • Node.js • Docker • GitHub Actions • Security Tools
+
+---
+
+### 🐾 Pet Place Platform
+A platform for pet owners to find services and interact with the pet community.
+
+Features:
+- Pet boarding search
+- Pet transportation services
+- Buy & sell pets or accessories
+- Pet owner community
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthitNopjaroonsri&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitNopjaroonsri&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact
+
+- Email: your-email@example.com
+- LinkedIn: (add your LinkedIn here)
+
+---
+
+⭐️ Always open to learning and collaborating on security and cloud projects
