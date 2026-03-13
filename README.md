@@ -1,83 +1,31 @@
-# Hi 👋 I'm Arthit Nopjaroonsri
+## About me
 
-🎓 Four-year Computer Engineering student at KMUTT  
-🔐 Interested in DevSecOps, Offensive Security, and Cloud Infrastructure  
-🚀 Passionate about building secure and scalable systems
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working on **DevSecOps Security Scanning Platform**
-- 🌱 Learning more about **Cloud Security, CI/CD, and Kubernetes**
-- 🛠 Experienced in **Web Development & Security Testing**
-- 🎯 Goal: Become an **Offensive Security Engineer / DevSecOps Engineer**
+My name is **Arthit Nopjaroonsri**.  
+I'm a **Computer Engineering student at KMUTT** interested in **DevSecOps, Cloud Infrastructure, and Cybersecurity**.  
+I enjoy building secure systems, working with cloud platforms, and exploring offensive security techniques.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stacks
 
-**Programming**
-- JavaScript / TypeScript
-- Python
-- SQL
+### Web Development
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
 
-**Frontend**
-- React
-- TailwindCSS
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-black?style=for-the-badge&logo=githubactions)
+![GCP](https://img.shields.io/badge/GCP-black?style=for-the-badge&logo=google-cloud)
 
-**Backend & DevOps**
-- Node.js
-- Docker
-- GitHub Actions
-- Linux
+### Security
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kalilinux)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-black?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark)
 
-**Cloud & Infrastructure**
-- Google Cloud Platform (GCP)
-- VM / Cloud Run
-- Networking / VPC
-
-**Security Tools**
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
-
----
-
-## 📌 Featured Projects
-
-### 🔐 DevSecOps Security Scanner Platform
-A web platform that scans GitHub repositories for security vulnerabilities.
-
-Features:
-- Static Code Analysis
-- Container Vulnerability Scanning
-- Security Dashboard
-- CI/CD Integration
-
-Tech Stack:
-React • Node.js • Docker • GitHub Actions • Security Tools
-
----
-
-### 🐾 Pet Place Platform
-A platform for pet owners to find services and interact with the pet community.
-
-Features:
-- Pet boarding search
-- Pet transportation services
-- Buy & sell pets or accessories
-- Pet owner community
-
----
-
-
-
-## 📫 Contact
-
-- Email: arthit.nop@gmail.com
-
----
-
-⭐️ Always open to learning and collaborating on security and cloud projects
+### Other
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
