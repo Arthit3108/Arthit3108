@@ -72,18 +72,11 @@ Features:
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthitNopjaroonsri&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthitNopjaroonsri&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: (add your LinkedIn here)
+- Email: arthit.nop@gmail.com
 
 ---
 
