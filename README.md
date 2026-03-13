@@ -1,6 +1,6 @@
 # Hi 👋 I'm Arthit Nopjaroonsri
 
-🎓 Third-year Computer Engineering student at KMUTT  
+🎓 Four-year Computer Engineering student at KMUTT  
 🔐 Interested in DevSecOps, Offensive Security, and Cloud Infrastructure  
 🚀 Passionate about building secure and scalable systems
 
