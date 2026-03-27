@@ -9,7 +9,7 @@ Final-year Computer Engineering student with hands-on experience in full-stack d
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF6B35?style=flat-square)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7F77DD?style=flat-square)
-![KMUTT CE · May 2026](https://img.shields.io/badge/KMUTT%20CE-May%202026-1D9E75?style=flat-square)
+![KMUTT CPE · May 2026](https://img.shields.io/badge/KMUTT%20CPE-May%202026-1D9E75?style=flat-square)
 
 ---
 
