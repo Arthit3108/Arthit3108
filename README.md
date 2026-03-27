@@ -6,6 +6,7 @@ Final-year Computer Engineering student with hands-on experience in full-stack d
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-FF6B35?style=flat-square)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-7F77DD?style=flat-square)
 ![KMUTT CE · May 2026](https://img.shields.io/badge/KMUTT%20CE-May%202026-1D9E75?style=flat-square)
