@@ -51,11 +51,23 @@ Built a real-time HTML/CSS/JS dashboard and programmed an ESP8266 microcontrolle
 
 ---
 
-## Experience & Activities
+## 💼 Experience
+
+### SCB & SCB Tech X
+**Software Developer (Internship & Part-time)** · *Feb 2025 – Feb 2026*
+- Developed a full-stack back-office web application using the Zoral platform and GraphQL within an Agile development environment.
+- Managed enterprise data migration across tables on Azure Databricks using Python and PySpark.
+- Refactored and optimized Databricks transformation code to eliminate import redundancies, significantly improving performance.
+- Generated and inserted 5 million mock records to validate performance improvements post-refactoring.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![Azure Databricks](https://img.shields.io/badge/Azure_Databricks-035A9D?style=flat-square&logo=databricks&logoColor=white) ![Zoral Platform](https://img.shields.io/badge/Zoral_Platform-4D4D4D?style=flat-square)
+
+---
+
+## 🏆 Awards & Activities
 
 | | |
 |---|---|
-| 💼 **SCB & SCB Tech X** | Software Developer (Internship & Part-time) · Feb 2025 – Feb 2026 |
 | 🏆 **Hackcity by Sirisoft 2024** | 3rd Place · Food exchange platform concept |
 | 🏅 **Computer Engineering CTF 2026** | 4th Place · Cyber security competition |
 | 🎖️ **Thailand Cyber Top Talent 2024** | CTF Competitor · System security & packet analysis |
