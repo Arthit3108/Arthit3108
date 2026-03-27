@@ -1,6 +1,6 @@
 # Arthit Nopjaroonsri
 
-> Associate Application Developer-AWS Cloud Fullstack · Computer Engineering @ KMUTT · DevOps & Cloud
+> Computer Engineering @ KMUTT · Software Developer & DevOps & Cloud
 
 Final-year Computer Engineering student with hands-on experience in full-stack development, microservices, cloud-native architectures (AWS, GCP), and DevOps. Skilled in Agile enterprise data integrations. Eager to leverage my technical adaptability to build and deploy impactful solutions.
 
