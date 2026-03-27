@@ -1,8 +1,8 @@
 # Arthit Nopjaroonsri
 
-> Computer Engineering @ KMUTT · DevOps & Cloud · Building things that deploy themselves
+> Associate Application Developer-AWS Cloud Fullstack · Computer Engineering @ KMUTT · DevOps & Cloud
 
-Interested in DevSecOps, MLOps, and making infrastructure boring (in the best way)
+Final-year Computer Engineering student with hands-on experience in full-stack development, microservices, cloud-native architectures (AWS, GCP), and DevOps. Skilled in Agile enterprise data integrations. Eager to leverage my technical adaptability to build and deploy impactful solutions.
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-brightgreen?style=flat-square)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -14,42 +14,39 @@ Interested in DevSecOps, MLOps, and making infrastructure boring (in the best wa
 
 ## 🟢 Currently
 
-Building a **Medication Reminder App** on GCP — Microservices, CI/CD with GitHub Actions, fine-tuned mT5 model deployed on GPU VM · Part-time Software Developer at **SCB (Siam Commercial Bank)**
+Final-year Computer Engineering student at **KMUTT** (Graduating May 2026) · Building an **AI Code Scanner Pipeline** with Gemini AI · Former Software Developer at **SCB & SCB Tech X**
 
 ---
 
 ## Skills
 
-**Cloud & Infrastructure**
-`GCP` `Cloud Run` `Compute Engine` `Artifact Registry` `GCS` `IAM` `VPC` `Azure Databricks`
+**Cloud & DevOps**
+`AWS (EC2/RDS)` `GCP (Cloud Run/Compute Engine/CloudSQL)` `Azure Databricks` `Docker` `CI/CD` `GitHub Actions`
 
-**DevSecOps & CI/CD**
-`GitHub Actions` `Docker` `Docker Compose` `Trivy` `Bandit` `Semgrep` `SAST/DAST`
+**Programming**
+`Python` `JavaScript` `HTML` `CSS` `SQL` `Go` `Bash` `PowerShell`
 
-**Programming & Scripting**
-`Python` `FastAPI` `NestJS` `PySpark` `Bash` `PowerShell` `C` `SQL` `JavaScript`
-
-**OS & Networking**
-`Linux (Ubuntu/Kali)` `SSH` `VMware` `TCP/IP` `Wireshark` `Burp Suite`
+**Frameworks & DBs**
+`React Native` `NestJS` `Go Fiber` `PostgreSQL` `GraphQL` `PySpark` `FastAPI`
 
 ---
 
 ## Projects
 
-### 🤖 Medication Reminder App
-Microservices architecture on GCP · NestJS backend on Cloud Run · FastAPI + fine-tuned mT5 on GPU VM (NVIDIA T4) · Gemini 2.5 Flash chatbot · Google Vision API for OCR · **90% NLP accuracy**
+### 🚀 AI Code Scanner Pipeline Tool & Web Platform
+Engineered a reusable vulnerability scanning pipeline tool (Trivy, Gitleaks) · Full-stack web platform using Go Fiber, React Native, and PostgreSQL · Integrated Gemini AI for scan result analysis and remediation advice · Deployed on AWS EC2/RDS.
 
-`GCP` `Docker` `FastAPI` `NestJS` `mT5` `Gemini` `GitHub Actions` `PostgreSQL` `Expo`
+`AWS` `Docker` `Go Fiber` `React Native` `PostgreSQL` `Gemini AI` `Trivy` `Gitleaks`
 
-### 🔐 DevSecOps Pipeline
-End-to-end CI/CD with shift-left security · Auto deploy to Cloud Run + GPU VM · Security scanning integrated at every stage
+### 💊 AI Pill Reminder Mobile Application
+Microservices platform architected with NestJS/PostgreSQL backend and FastAPI ML model service · React Native (Expo Router) frontend · Trained mT5 model for OCR data extraction with 90% accuracy · Deployed on GCP (Cloud Run, Compute Engine VM NVIDIA T4).
 
-`GitHub Actions` `Trivy` `Bandit` `Semgrep` `Artifact Registry` `Cloud Run` `Workload Identity`
+`GCP` `Docker` `FastAPI` `NestJS` `PostgreSQL` `mT5` `GitHub Actions` `Expo`
 
-### 🌱 Bare-Metal Smart Agriculture
-Firmware for ATmega328p with no external libraries · Custom UART driver · GPIO/ADC sensor integration
+### 🌾 Smart Farming Real-time Dashboard
+Built a real-time HTML/CSS/JS dashboard and programmed an ESP8266 microcontroller to monitor and automate soil moisture, humidity, and temperature controls.
 
-`C` `ATmega328p` `UART` `GPIO` `ADC`
+`HTML/CSS/JS` `ESP8266` `IoT`
 
 ---
 
@@ -57,10 +54,10 @@ Firmware for ATmega328p with no external libraries · Custom UART driver · GPIO
 
 | | |
 |---|---|
-| 💼 **SCB (Siam Commercial Bank)** | Software Developer · Feb 2025 – Present |
-| 🏆 **Thailand Cyber Top Talent 2024** | CTF Competitor · Wireshark, packet analysis |
-| 🥉 **HACKADAY CITYHACK 2023** | 3rd Prize · 24hr hackathon |
-| 📜 **TryHackMe** | Pre Security · DevSecOps path |
+| 💼 **SCB & SCB Tech X** | Software Developer (Internship & Part-time) · Feb 2025 – Feb 2026 |
+| 🏆 **Hackcity by Sirisoft 2024** | 3rd Place · Food exchange platform concept |
+| 🏅 **Computer Engineering CTF 2026** | 4th Place · Cyber security competition |
+| 🎖️ **Thailand Cyber Top Talent 2024** | CTF Competitor · System security & packet analysis |
 
 ---
 
